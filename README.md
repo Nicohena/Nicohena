@@ -18,5 +18,6 @@ I'm currently looking for a software engineering internship — remote, on-site,
 
 - I speak Amharic, English, un poco de español, and the language of Stack Overflow
 - Attack on Titan is my favorite anime (SASAGEYO! 🗡️)
+- Long time Chealsea supporter
 - My playlist is a chaotic mix of R&B, rap, and jazz — The Weeknd is on repeat
-- Hobbies: coding, anime, chess,learning Spanish, getting lost in good music, and breaking code just to fix it again
+- Hobbies: coding, anime, chess, watching football, learning Spanish, getting lost in good music, and breaking code just to fix it again
