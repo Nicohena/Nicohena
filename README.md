@@ -14,7 +14,7 @@ I've built over 5 production-grade full-stack apps, but privately.. I've lost co
 
 I'm currently looking for a software engineering internship — remote, on-site, or hybrid. Let's build something cool together.
 
-## Fun Facts:
+## Facts About me:
 
 - I speak Amharic, English, un poco de español, and the language of Stack Overflow
 - Attack on Titan is my favorite anime (SASAGEYO! 🗡️)
