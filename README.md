@@ -10,9 +10,7 @@ My main tech stack is React, Next.js, TypeScript, Tailwind CSS, and Node.js. My 
 
 I've got a bunch of pinned projects, but my favorite is **[Gojo](https://github.com/Nicohena/House-Rental-System)**
 
-I've built over 5 production-grade full-stack apps, but privately.. I've lost count at this point.
-
-I'm currently looking for a software engineering internship — remote, on-site, or hybrid. Let's build something cool together.
+I've built over 5 production-grade full-stack apps, but privately.. I've build much more.
 
 ## Facts About me:
 
