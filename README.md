@@ -1,4 +1,4 @@
-# ¿Qué tal? 👋
+# こんにちは！ 👋
 
 I'm Henok, a full-stack developer based in Ethiopia.
 
