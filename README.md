@@ -11,11 +11,3 @@ My main tech stack is React, Next.js, TypeScript, Tailwind CSS, and Node.js. My 
 I've got a bunch of pinned projects, but my favorite is **[Gojo](https://github.com/Nicohena/House-Rental-System)**
 
 I've built over 5 production-grade full-stack apps, but privately.. I've build much more.
-
-## Facts About me:
-
-- I speak Amharic, English, un poco de español, and the language of Stack Overflow
-- Attack on Titan is my favorite anime (SASAGEYO! 🗡️)
-- Long time Chealsea supporter
-- My playlist is a chaotic mix of R&B, rap, and jazz — The Weeknd is on repeat
-- Hobbies: coding, anime, chess, watching football, learning Spanish, getting lost in good music, and breaking code just to fix it again
